@@ -1,0 +1,11 @@
+topics:
+  - name: "Topic name 1"
+    replication: "1"
+    retention_milliseconds: "2"
+    partitions: "3"
+    cleanup_policy: "yes"
+  - name: "Topic name 2"
+    replication: "1"
+    retention_milliseconds: "2"
+    partitions: "3"
+    cleanup_policy: "no"
